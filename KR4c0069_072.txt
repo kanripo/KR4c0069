@@ -6,6 +6,10 @@
 #+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 72
 #+PROPERTY: FILE SB04n0441-072白氏長慶集-後序.
+
+# SB1_0747-138.png (to SB1_0747-143)
+# ?
+
 <pb:KR4c0069_SBCK_072-1a>¶
 　　白氏文集後序¶
 詩文之稱於後世不知其數千萬家也至¶
